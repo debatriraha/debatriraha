@@ -6,10 +6,10 @@
 
 📌My GitHub profile : https://github.com/debatriraha
 
-- 👀 I’m interested in A passionate Web Developer from India
-- 🌱 I’m currently learning Web Developer.
-- 📫 How to reach me : www.linkedin.com/in/debatri-raha-a45624280/
-- ⚡ Fun fact: The initial name of JAVA was "Oak"
+- 👀 <B>I’m interested in A passionate Web Developer from India</B>
+- 🌱 <B>I’m currently learning Web Developer.</B>
+- 📫 <B>How to reach me : www.linkedin.com/in/debatri-raha-a45624280/</B>
+- ⚡<B> Fun fact: The initial name of JAVA was "Oak"</B>
 
 <!---
 debatriraha/debatriraha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
