@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Debatri Raha, I am currently pursuing a Bachelor of computer application degree at Maulana Abul Kalam Azad University of Technology ,west Bengal (formerly WBUT).I am particularly interested in exploring career and internship opportunities in the field of computer application ,where I can apply my skills and knowledge to make meaningful contributions to an organization. I am enthusiastic about work hard and acquiring as much knowledge as possible to accomplish my goals. My passion for innovation and problem solving.
+<h1>- 👋 Hi, I’m Debatri Raha, I am currently pursuing a Bachelor of computer application degree at Maulana Abul Kalam Azad University of Technology ,west Bengal (formerly WBUT).I am particularly interested in exploring career and internship opportunities in the field of computer application ,where I can apply my skills and knowledge to make meaningful contributions to an organization. I am enthusiastic about work hard and acquiring as much knowledge as possible to accomplish my goals. My passion for innovation and problem solving.</h1>
 
 📧You can reach me at debatriraha@gmail.com.
 
