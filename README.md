@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Debatri Raha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
- <B> ABOUT ME : </B>
- 
-I am currently pursuing a Bachelor of computer application degree at Maulana Abul Kalam Azad University of Technology ,west Bengal (formerly WBUT).I am particularly interested in exploring career and internship opportunities in the field of computer application ,where I can apply my skills and knowledge to make meaningful contributions to an organization. I am enthusiastic about work hard and acquiring as much knowledge as possible to accomplish my goals. My passion for innovation and problem solving.
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debatriraha&label=Profile%20views&color=0e75b6&style=flat" alt="debatriraha" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=debatriraha" alt="debatriraha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/debatrir89820" target="blank"><img src="https://img.shields.io/twitter/follow/debatrir89820?logo=twitter&style=for-the-badge" alt="debatrir89820" /></a> </p>
 
@@ -39,3 +33,4 @@ I am currently pursuing a Bachelor of computer application degree at Maulana Abu
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debatriraha&show_icons=true&locale=en" alt="debatriraha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=debatriraha&" alt="debatriraha" /></p>
+
