@@ -5,7 +5,6 @@
 
 📌My GitHub profile : https://github.com/debatriraha
 
-📌My Google Developer profile : https://developers.google.com/profile/u/105832555471291101445
 - 👀 I’m interested in A passionate Web Developer from India
 - 🌱 I’m currently learning Web Developer.
 - 📫 How to reach me : www.linkedin.com/in/debatri-raha-a45624280/
