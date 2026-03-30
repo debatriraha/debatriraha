@@ -132,21 +132,5 @@ PIL (Python Imaging Library)
 <p><a href="https://www.linkedin.com/in/debatri-raha-a45624280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/DebatriR89820" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://debatri-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://dev.to/https://developers.google.com/profile/u/105832555471291101445" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV"></a> <a href="https://www.instagram.com/i_ts_debatri" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
 
----
 
-## GitHub Stats
-
-<img src="https://github.com/debatriraha" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/debatriraha&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/debatriraha&theme=default" alt="GitHub Streak" />
-
-## GitHub Trophies
-
-<img src="https://github.com/debatriraha" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/debatriraha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
