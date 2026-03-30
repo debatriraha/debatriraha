@@ -23,7 +23,7 @@ I am currently pursuing a Bachelor of computer application degree at Maulana Abu
 
 ## Projects
 
-💱 Currency Converter
+💱<h1> Currency Converter </h1>
 
 A simple and responsive Currency Converter Web Application that allows users to convert one currency into another using real-time exchange rates.
 
@@ -42,7 +42,7 @@ Tools: VS Code, Git, GitHub
 
 ---
 
-🌦️ Weather Live
+🌦️ <h1> Weather Live </h1>
 
 A simple and responsive Weather App that shows real-time weather data including temperature, humidity, wind speed, and location-based forecasts.
 
@@ -86,7 +86,7 @@ This project performs standard arithmetic operations and is perfect for beginner
 
 ---
 
-### Personal-Porfolio
+### <h1> Personal-Porfolio </h1>
 
 A modern and responsive personal portfolio website built to showcase my skills, projects, and achievements as a Front-End Developer.
 
@@ -108,7 +108,7 @@ Bootstrap
 
 ---
 
-### QR-CODE-GEN
+### <h1> QR-CODE-GEN </h1>
 
 A simple and efficient Python project to generate QR codes from text, URLs, or any custom data. This project uses the qrcode library to create high-quality QR code images that can be saved and shared easily.
 
@@ -136,7 +136,7 @@ PIL (Python Imaging Library)
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=https://github.com/debatriraha&show_icons=true&count_private=true&theme=default" alt="GitHub İstatistikleri" />
+<img src="https://github.com/debatriraha" alt="GitHub İstatistikleri" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/debatriraha&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
@@ -144,7 +144,7 @@ PIL (Python Imaging Library)
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=https://github.com/debatriraha" alt="trophy" />
+<img src="https://github.com/debatriraha" alt="trophy" />
 
 ## GitHub Activity Graph
 
