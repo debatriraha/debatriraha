@@ -23,7 +23,7 @@ I am currently pursuing a Bachelor of computer application degree at Maulana Abu
 
 ## Projects
 
-# 💱 <h1> Currency Converter </h1>
+# 💱 Currency Converter 
 
 A simple and responsive Currency Converter Web Application that allows users to convert one currency into another using real-time exchange rates.
 
@@ -42,7 +42,7 @@ Tools: VS Code, Git, GitHub
 
 ---
 
-# 🌦️ <h1> Weather Live </h1>
+# 🌦️  Weather Live 
 
 A simple and responsive Weather App that shows real-time weather data including temperature, humidity, wind speed, and location-based forecasts.
 
