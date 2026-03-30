@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Debatri Raha</h1>
-# Hello 👋, I'm Debatri Raha
-### Full-Stack Developer / Ai Enthusiastic
+<h1 align="center">Hi 👋, I'm Debatri Raha ( Full-Stack Developer / Ai Enthusiastic) </h1>
 
 I am currently pursuing a Bachelor of computer application degree at Maulana Abul Kalam Azad University of Technology ,west Bengal (formerly WBUT).I am particularly interested in exploring career and internship opportunities in the field of computer application ,where I can apply my skills and knowledge to make meaningful contributions to an organization. I am enthusiastic about work hard and acquiring as much knowledge as possible to accomplish my goals. My passion for innovation and problem solving.
 
-## Contact Me
-<p><a href="https://www.linkedin.com/in/debatri-raha-a45624280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/DebatriR89820" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://debatri-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://dev.to/https://developers.google.com/profile/u/105832555471291101445" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV"></a> <a href="https://www.instagram.com/i_ts_debatri" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
 ## Skills
 
@@ -27,7 +23,7 @@ I am currently pursuing a Bachelor of computer application degree at Maulana Abu
 
 ## Projects
 
-### CURRENCY-WEBSITE
+💱 Currency Converter
 
 A simple and responsive Currency Converter Web Application that allows users to convert one currency into another using real-time exchange rates.
 
@@ -46,7 +42,7 @@ Tools: VS Code, Git, GitHub
 
 ---
 
-### Weather-live
+🌦️ Weather Live
 
 A simple and responsive Weather App that shows real-time weather data including temperature, humidity, wind speed, and location-based forecasts.
 
@@ -132,6 +128,10 @@ PIL (Python Imaging Library)
 
 [View Project](https://github.com/debatriraha/QR-CODE-GEN)
 
+## Contact Me
+<p><a href="https://www.linkedin.com/in/debatri-raha-a45624280/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/DebatriR89820" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://debatri-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://dev.to/https://developers.google.com/profile/u/105832555471291101445" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV"></a> <a href="https://www.instagram.com/i_ts_debatri" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+
+
 ---
 
 ## GitHub Stats
@@ -146,5 +146,7 @@ PIL (Python Imaging Library)
 
 <img src="https://github-profile-trophy.vercel.app/?username=https://github.com/debatriraha" alt="trophy" />
 
+## GitHub Activity Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/debatriraha&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
