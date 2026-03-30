@@ -63,7 +63,7 @@ Styling: Bootstrap / Custom CSS
 
 ---
 
-### Basic calculator
+
 
 # 🧮 Basic Calculator
 
