@@ -105,7 +105,8 @@ This project performs standard arithmetic operations and is perfect for beginner
 
 A modern and responsive personal portfolio website built to showcase my skills, projects, and achievements as a Front-End Developer.
 
-🚀 Features
+##🚀 Features
+
 🏠 Modern Home / Hero Section
 
 👨‍💻 About Me Section
@@ -128,7 +129,8 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 🔗 GitHub & Social Links
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
+
 HTML5
 CSS3
 JavaScript
